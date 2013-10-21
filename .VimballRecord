@@ -1,0 +1,1 @@
+tcomment.vba: call delete('/Users/mahami/.vim/doc/tcomment.txt')|call delete('/Users/mahami/.vim/plugin/tcomment.vim')|call delete('/Users/mahami/.vim/autoload/tcomment.vim')
