@@ -1,11 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/mahami/Sites/imlec'
-let g:netrw_dirhist_2='/Users/mahami/.oh-my-zsh'
-let g:netrw_dirhist_3='/Users/mahami/.oh-my-zsh/lib'
-let g:netrw_dirhist_4='/Users/mahami/Sites/imlec'
-let g:netrw_dirhist_5='/Users/mahami/Sites/mayer'
-let g:netrw_dirhist_6='/Users/mahami/Desktop/slides'
-let g:netrw_dirhist_7='/Users/mahami/Sites/mayer'
-let g:netrw_dirhist_8='/Users/mahami/Desktop/slides'
-let g:netrw_dirhist_9='/Users/mahami/Sites/imlec'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/mahami/Sites/slides'
+let g:netrw_dirhist_2='/Users/mahami/Sites/imlec'
+let g:netrw_dirhist_3='/Users/mahami/Sites/slides'
+let g:netrw_dirhist_4='/Users/mahami/Desktop/laba'
+let g:netrw_dirhist_5='/Users/mahami/Sites/back-projects/imlec-cloud'
